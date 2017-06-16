@@ -1,0 +1,12 @@
+{
+	"full_name": "Nathan Henrie",
+	"email": "nate@n8henrie.com",
+	"github_username": "n8henrie",
+	"project_name": "AWS Lambda Boilerplate",
+	"func_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+	"repo_name": "{{ cookiecutter.project_slug }}",
+	"project_short_description": "A lambda function that does some stuff.",
+	"version": "0.1.0",
+	"year": "",
+	"release_date": ""
+}
